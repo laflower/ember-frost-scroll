@@ -1,1 +1,1 @@
-export { default } from 'frost-scroll/pods/components/frost-scroll/component';
+export { default } from 'ember-frost-scroll/pods/components/frost-scroll/component'
