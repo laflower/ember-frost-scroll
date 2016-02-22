@@ -36,7 +36,7 @@ This README outlines the details of collaborating on this Ember addon.
 
 ```handlebars
   {{#frost-scroll class='full' on-scroll-y-end=(action 'yEndReached')}}
-    {{frost-svg path="frost/add" class="dummy-svg-huge"}}
+    {{frost-icon icon="frost/add" class="dummy-svg-huge"}}
   {{/frost-scroll}}
 ```
 ## Development

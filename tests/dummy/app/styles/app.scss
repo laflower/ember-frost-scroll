@@ -1,7 +1,6 @@
 @import 'bourbon';
-@import 'frost/variables';
-@import 'frost/app';
-@import 'frost/patterns';
+@import 'node_modules/ember-frost-css-core/scss/frost-core';
+@import 'node_modules/ember-frost-theme/scss/frost-theme';
 
 .dummy-notification-container {
 	position: fixed;

@@ -4,7 +4,7 @@
 'use strict'
 
 module.exports = {
-  name: 'frost-scroll',
+  name: 'ember-frost-scroll',
 
   included: function (app) {
     this._super.included(app)
