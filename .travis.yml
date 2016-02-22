@@ -47,12 +47,3 @@ notifications:
   slack:
     secure: Ry5pACST5MzVeEwIWC+s/FpgGJJqr/y+qliwXMJWtF9O7GyxB6/dNmiXMU8dKu1OxtF4OcKE+uWD8FiXy5VVVsHBhhMUqvIMkxfzEwOcggt1EA5ebRqOqPyYFRgYqemvoPwDjdXjXl+e+gJRcWnMV/iprR4s4VV4jNC30MFXs6AtbNYmxSO4+ZIZBsaKW2r/mG4kUHZ5+Fh3ig2x74A+5QwpCSiU7f4t8gn4UXwzRJ6b37aAJAzxB4QFE7VgzEttilUsIvxX7Nxj/IukKyyDuOCUNdeqYjjqHXCtRToJkghYSXWW6ZbM80ttdk+qb7iohKG7IjagKlpdi7r4Jd9rO4XmSagxnuFyVFM4jsnG+KCarB18o01Kni5jsEk5vsgdkX1p/pV9e8eOfRkIaGdQL9PjbyLNw1500Mk95UVmYTIsTwQepkpEAP4ri5ztKd50zOnm/P1a22SAeGiqvVHpPeqDqn+GLtCxdbBN7uuojjmqBRHAXHeSRjQ+rEKUgaT47dBYNiWx4LHiSyfooWMOXf5ttUvSun0IHKlFz7d4e9rXMm7Q5YFS+qV2KHZ8Ux3pscf1oIUrNRpVWvfKQ28SYxhmH22WIMGjZg+uWWZUGicGtQ57Wg0Tf7B+5BTLPQ4wKjwqPWtTkmjTRX7/JdE999p4GatTYwPcFnIx/W7NkAo=
     
-
-    ## start modification
-   
-    ## end modification
- 
-#### testem.json
-  "launch_in_ci": [
-    "Firefox"
-  ],
